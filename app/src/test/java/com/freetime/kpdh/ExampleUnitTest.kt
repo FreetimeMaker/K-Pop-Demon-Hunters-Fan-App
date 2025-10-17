@@ -1,4 +1,4 @@
-package com.freetime.kpdhfa
+package com.freetime.kpdh
 
 import org.junit.Test
 
